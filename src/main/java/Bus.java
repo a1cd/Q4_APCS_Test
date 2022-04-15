@@ -1,7 +1,7 @@
 public class Bus {
     public int stop = 0;
     public int stops;
-    // i got on the ncssm waitlist
+
     public Bus(int stps) {
         stops = stps-1;
     }
